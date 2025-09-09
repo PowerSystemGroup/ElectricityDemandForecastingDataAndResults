@@ -1,5 +1,5 @@
-# MFDF_STGNN_Data_and_Code
-
+# Electricity Demand Forecasting Data And Results
+This repository stores the data and results required for electricity demand forecasting.
 # Feedback-Enhanced Tabular (FETab)
 The repository includes the experimental data in "Monthly Electricity Consumption Forecasting under Extremely Small Sample Conditions Based on a Closed-Loop Dual-Channel Feedback Mechanism" and the corresponding experimental programs.
 # Dataset  Description
